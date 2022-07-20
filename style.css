@@ -303,11 +303,11 @@ a {
 footer {
     width: 100%;
     padding: 50px 0px;
-    background-image: url(../Images/background-footer.svg);
+    background-image: url(../Proyecto-Final-Front-End-/background-footer.svg);
     background-size: cover;
     background-image: linear-gradient(to top, #fff1eb 0%, #ace0f9 100%);
-    -webkit-mask-image: url("/background-footer.svg");
-    mask-image: url("/background-footer.svg");
+    -webkit-mask-image: url("../Proyecto-Final-Front-End-/background-footer.svg");
+    mask-image: url("../Proyecto-Final-Front-End-/background-footer.svg");
     -webkit-mask-size: cover;
     mask-size: cover;
     margin-top: 100px;
